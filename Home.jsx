@@ -27,6 +27,12 @@ function Home() {
           <a className="overlay-button button1" href="Members">About Us</a>
           <a className="overlay-button button2" href="/Events">Explore</a>
         </div>
+        <div className="buttons">
+  <a className="overlay-button button1" href="Members">About Us</a>
+  <i className="fas fa-chevron-down arrow-icon"></i>
+  <a className="overlay-button button2" href="/Events">Explore</a>
+</div>
+
       </div>
       <section className="about-section">
         <h2>About Us</h2>

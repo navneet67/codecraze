@@ -49,21 +49,21 @@
   
 }
 .button1 {
-  top: 71%;
-  left: 260px; /* Adjust the left position for Button 1 */
+  top: 69.5%;
+  left: 60px; /* Adjust the left position for Button 1 */
   transform: translate(1, -50%);
 }
 
 .button2 {
   top: 78%;
-  right: 100px; /* Adjust the right position for Button 2 */
+  right: 60px; /* Adjust the right position for Button 2 */
   transform: translate(0, -50%);
 }
 /* Home.css */
 
 /* About Us Section */
 .about-section {
-  padding: 50px 5px; /* Adjust padding as needed */
+  padding: 50px 0px ; /* Adjust padding as needed */
   text-align: center;
   height: 320px;
   width: 100%;
